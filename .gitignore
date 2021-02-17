@@ -1,0 +1,5 @@
+.hg*
+.vs*
+/bin
+/obj
+/RAW
